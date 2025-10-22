@@ -1,0 +1,6 @@
+PyQt6==6.7.1
+numpy==2.0.2
+sounddevice==0.4.7
+pyobjc==10.3
+# Optional: soundfile for easier WAV IO (we use stdlib wave by default)
+# soundfile==0.12.1
